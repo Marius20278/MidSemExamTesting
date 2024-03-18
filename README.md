@@ -38,8 +38,8 @@ command to run if the program contains helper info
 
 Contributors names and contact info
 
-ex. Marius 
-ex. [@Marius20278]((https://github.com/Marius20278/)
+Marius 
+[@Marius20278]((https://github.com/Marius20278/)
 
 ## Version History
 
